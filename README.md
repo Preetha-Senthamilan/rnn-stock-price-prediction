@@ -120,17 +120,17 @@ print('PREETHA S')
 print(mse(y_test,predicted_stock_price))
 
 ```
-
-
-
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
 
+![Screenshot 2024-10-04 105849](https://github.com/user-attachments/assets/25cfe355-c4e4-4a8e-8398-09cb916b977d)
 
 
 ### Mean Square Error
 
-Include the mean square error
+![Screenshot 2024-10-04 110405](https://github.com/user-attachments/assets/6e7c05a5-5d7f-4776-89f2-7e1a9902d020)
+
 
 ## Result
+Thus, a Recurrent Neural Network model for stock price prediction is developed.
